@@ -6,7 +6,7 @@
 			"segments": [
 				{
 					"foreground": "#14a10c",
-					"style": "plain",
+					"style": "powerline",
 					"template": "\u279c",
 					"type": "text"
 				},
