@@ -6,7 +6,7 @@
 			"segments": [
 				{
 					"foreground": "#14a10c",
-					"style": "plain",
+					"style": "powerline",
 					"template": "\u279c",
 					"type": "text"
 				},
@@ -25,7 +25,7 @@
 						"branch_icon": ""
 					},
 					"style": "plain",
-					"template": "<#4e84f8>git:(</>{{ .HEAD }}<#4e84f8>)</>",
+					"template": "<#4e84f8>git:(</>{{ .HEAD }}<#4e84f8>)</> ✗",
 					"type": "git"
 				},
 				{
