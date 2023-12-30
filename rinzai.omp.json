@@ -10,13 +10,13 @@
 			"alignment": "left",
 			"segments": [
 				{
-					"foreground": "p:primary",
+					"foreground": "p:accent",
 					"style": "powerline",
 					"template": "\u279c",
 					"type": "text"
 				},
 				{
-					"foreground": "p:accent",
+					"foreground": "p:primary",
 					"properties": {
 						"style": "folder"
 					},
@@ -30,7 +30,7 @@
 						"branch_icon": ""
 					},
 					"style": "plain",
-					"template": "<p:accent>git:(</>{{ .HEAD }}<p:accent>)</> ✗",
+					"template": "<p:primary>git:(</>{{ .HEAD }}<p:primary>)</> ✗",
 					"type": "git"
 				}
 			],
